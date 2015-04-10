@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--XML Database.-->
+<config>
+  <SMTP>192.168.1.50</SMTP>
+  <MailTo>dustinmiller@servu-online.com</MailTo>
+  <SolutionsConnection>Data Source=sqlserver;Initial Catalog=SERV-U;User ID=sa;Password=!get2it</SolutionsConnection>
+</config>

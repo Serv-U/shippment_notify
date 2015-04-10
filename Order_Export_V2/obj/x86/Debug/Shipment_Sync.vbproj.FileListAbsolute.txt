@@ -1,0 +1,15 @@
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\bin\Debug\Order_Export_V2.exe.config
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\bin\Debug\Order_Export_V2.exe
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\bin\Debug\Order_Export_V2.pdb
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\bin\Debug\Order_Export_V2.xml
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\Interop.ADODB.dll
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\Shipment_Sync.vbproj.ResolveComReference.cache
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\Order_Export_V2.Resources.resources
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\Order_Export_V2.exe
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\Order_Export_V2.xml
+C:\Documents and Settings\dustinmiller\My Documents\Visual Studio 2010\Projects\Order_Export_V2\Order_Export_V2\obj\x86\Debug\Order_Export_V2.pdb
